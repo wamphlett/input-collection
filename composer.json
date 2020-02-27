@@ -1,0 +1,13 @@
+{
+    "name": "wamphlett/input-collection",
+    "description": "A smarter and stricter way to capture and validate request data",
+    "require": {
+        "php": "^7"
+    },
+    "authors": [
+        {
+            "name": "Warren Amphlett",
+            "email": "warrenamphlett@gmail.com"
+        }
+    ]
+}
